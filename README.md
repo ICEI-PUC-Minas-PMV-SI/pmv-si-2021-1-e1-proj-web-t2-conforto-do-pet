@@ -6,7 +6,7 @@
 
 `Primeiro Semestre`
 
-O presente projeto busca desenvolver um Sistema que ligue prestadores de serviço e clientes Pet's. O serviço busca oferecer produtos e prestações de serviço, tendo uma alta variedade de componentes e opções para os usuários
+
 ## Integrantes
 
 - Douglas Fernan De Carvalho Jardim
@@ -43,4 +43,4 @@ O presente projeto busca desenvolver um Sistema que ligue prestadores de serviç
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="presentation/README.md"> O presente projeto busca desenvolver um Sistema que ligue prestadores de serviço e clientes Pet's. O serviço busca oferecer produtos e prestações de serviço, tendo uma alta variedade de componentes e opções para os usuários</a></li>
