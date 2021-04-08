@@ -2,7 +2,7 @@
 
 `Sistemas De  Informação`
 
-`DISCIPLINA`
+`Projeto: Aplicações Web`
 
 `Primeiro Semestre`
 
