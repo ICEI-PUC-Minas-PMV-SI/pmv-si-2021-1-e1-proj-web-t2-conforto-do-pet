@@ -13,7 +13,7 @@ O presente projeto busca desenvolver um Sistema que ligue prestadores de serviç
 - Thomas Henrique Lousada
 - Valéria Aparecida Santos
 - Robert Ulisses Junior
-- 
+- Aline Alves Trindade
 
 ## Professor
 
