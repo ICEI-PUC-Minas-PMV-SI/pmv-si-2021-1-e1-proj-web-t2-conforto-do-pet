@@ -1,10 +1,10 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Sistemas De  Informação`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`Primeiro Semestre`
 
 ## Integrantes
 
