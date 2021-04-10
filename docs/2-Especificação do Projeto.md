@@ -8,7 +8,27 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+<b>Nathalia Amorim</b>
+
+Nathalia Amorim tem 24 anos, mora em Passa Tempo MG, é recem formada em direito pela universidade XXXX. Nathalia é uma pessoa que gosta muito de animais, ela possui 2 cachorros, e acredita que um aplicativo que possa agilizar o serviço de marcação de consultas para seus pets poderia otimizar sua rotina. Ela foi perguntada sobre o que consideraria essencial para que o aplicativo a atendesse da melhor maneira. Em resposta, ela mencionou que o aplicativo precisa ser simples, ágil, seguro. Disse também que anúncios dentro de um aplicativo podem poluir a visualização além de ser algo incômodo para usuários finais. Por fim, foi levantado algumas das suas principais características listadas no quadro abaixo.
+
+![alt text](https://user-images.githubusercontent.com/80352124/114281443-c7f9ea80-9a14-11eb-970e-b2d33d3cb4ef.jpg)| Nathalia Amorim | 24 Anos | Advogada
+:--------- | :------: | -------: | -------: 
+<b>Hobbies</b> | Ler | Dançar | Cantar 
+<b>Motivações</b> | Fámilia | Deus | Amigos
+<b>Aplicativos</b> | Instagram | Facebook | Tinder
+<br><br>
+
+<b>Lucas Jhony</b>
+
+Lucas Jhony...
+
+
+![alt text](https://user-images.githubusercontent.com/80352124/114282433-663c7f00-9a1a-11eb-8ab3-77b6281b4097.jpg)| Lucas Jhony | 20 Anos | Estudante
+:--------- | :------: | -------: | -------: 
+<b>Hobbies</b> | Ler | Dançar | Cantar 
+<b>Motivações</b> | Fámilia | Deus | Amigos
+<b>Aplicativos</b> | Instagram | Facebook | Tinder
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
