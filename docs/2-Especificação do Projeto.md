@@ -27,7 +27,7 @@ Lucas Jhony tem 20 anos, mora atualmente em Desterro de Entre Rios MG, Estudante
 ![alt text](https://user-images.githubusercontent.com/80352124/114282433-663c7f00-9a1a-11eb-8ab3-77b6281b4097.jpg)| Lucas Jhony | 20 Anos | Estudante
 :--------- | :------: | -------: | -------: 
 <b>Hobbies</b> | Jogar | Sair | Estudar 
-<b>Motivações</b> | Fámilia | Amigos | Fé
+<b>Motivações</b> | Família | Amigos | Fé
 <b>Aplicativos</b> | Instagram | Facebook | Twitter
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
