@@ -10,25 +10,25 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 <b>Nathalia Amorim</b>
 
-Nathalia Amorim tem 24 anos, mora em Passa Tempo MG, é recem formada em direito pela universidade XXXX. Nathalia é uma pessoa que gosta muito de animais, ela possui 2 cachorros, e acredita que um aplicativo que possa agilizar o serviço de marcação de consultas para seus pets poderia otimizar sua rotina. Ela foi perguntada sobre o que consideraria essencial para que o aplicativo a atendesse da melhor maneira. Em resposta, ela mencionou que o aplicativo precisa ser simples, ágil, seguro. Disse também que anúncios dentro de um aplicativo podem poluir a visualização além de ser algo incômodo para usuários finais. Por fim, foi levantado algumas das suas principais características listadas no quadro abaixo.
+Nathalia Amorim tem 24 anos, mora em Passa Tempo MG, é recem formada em direito pela universidade Feol. Nathalia é uma pessoa que gosta muito de animais, ela possui 2 cachorros, e acredita que um aplicativo que possa agilizar o serviço de marcação de consultas para seus pets poderia otimizar sua rotina. Ela foi perguntada sobre o que consideraria essencial para que o aplicativo a atendesse da melhor maneira. Em resposta, ela mencionou que o aplicativo precisa ser simples, ágil, seguro. Disse também que anúncios dentro de um aplicativo podem poluir a visualização além de ser algo incômodo para usuários finais. Por fim, foi levantado algumas das suas principais características listadas no quadro abaixo.
 
 ![alt text](https://user-images.githubusercontent.com/80352124/114281443-c7f9ea80-9a14-11eb-970e-b2d33d3cb4ef.jpg)| Nathalia Amorim | 24 Anos | Advogada
 :--------- | :------: | -------: | -------: 
 <b>Hobbies</b> | Ler | Dançar | Cantar 
 <b>Motivações</b> | Fámilia | Deus | Amigos
-<b>Aplicativos</b> | Instagram | Facebook | Tinder
-<br><br>
+<b>Aplicativos</b> | WhatsApp | Instagram | Facebook
+
 
 <b>Lucas Jhony</b>
 
-Lucas Jhony...
+Lucas Jhony tem 20 anos, mora atualmente em Desterro de Entre Rios MG, Estudante na universade Puc Minas! Lucas também é uma pessoa que gosta muito de animais, possui muitos. Aproximadamente 12 cachorros. E acredita que seria excelente a ideia de um aplicativo pet, que ajudaria muito na facilidade de encontrar produtos e também na praticidade de comprar online. Acha também que pela praticidade de encontrar o aplicativo, usaria sem dúvidas. Segundo Lucas, acharia legal encontrar no Aplicativo Diversidade de produtos e de serviços para o seu pet. E também, consultas online, caso o pet não esteja muito bem. Lucas teria em principal objetivo no uso do app, comprar rações para seu pet. Que segundo ele, tem preguiça para deslocar até o local de venda do produto. Acha que para um aplicativo passar uma boa visão ao seus usuários deve ter uma interface bonita porém sem muito detalhes, e que seja fácil de usar. Acha que taxas abusivas em um aplicativo nunca deve existir, pois torna inviável para o público. Por fim, Foi levantado algumas das suas principais características no quadro abaixo,
 
 
 ![alt text](https://user-images.githubusercontent.com/80352124/114282433-663c7f00-9a1a-11eb-8ab3-77b6281b4097.jpg)| Lucas Jhony | 20 Anos | Estudante
 :--------- | :------: | -------: | -------: 
-<b>Hobbies</b> | Ler | Dançar | Cantar 
-<b>Motivações</b> | Fámilia | Deus | Amigos
-<b>Aplicativos</b> | Instagram | Facebook | Tinder
+<b>Hobbies</b> | Jogar | Sair | Estudar 
+<b>Motivações</b> | Fámilia | Amigos | Fé
+<b>Aplicativos</b> | Instagram | Facebook | Twitter
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
