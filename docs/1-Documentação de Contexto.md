@@ -1,46 +1,36 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+ <p> Estudos apontam que, os bichinhos de estimação tem ocupado lugar de maior importância no coração de muitos brasileiros e para alguns, são considerados parte essencial da família, em razão do afeto, do carinho e das responsabilidades, são tratados como se fossem filhos. No último censo, o IBGE aponta que quase 48 milhões de domicílio no Brasil tem cães ou gatos, acredita-se que com a pandemia esse número pode ter duplicado. Em São Paulo, a organização não governamental União Internacional Protetora dos Animais, registrou crescimento de 400% na procura por cães e gatos.</p>
+ <p> O setor de pet shops está em crescimento no Brasil, muitos tutores por passar mais tempo em casa devido ao isolamento, tem investido em mimos, brinquedos, banhos, tosas, aplicação de vacina e cuidados básicos. Como os pet shops são considerados serviços essenciais, não tiveram que fechar obrigatoriamente, mas com a diminuição da circulação de pessoas muitos optaram por uma paralisação temporária por redução nas vendas e serviços, em contra partida a compra online ganhou força. Os pets shops que já estão presentes no comércio eletrônico se fortaleceram como nunca, esse setor já estava se consolidando no Brasil entre os principais antes da pandemia e o isolamento, após as restrições, segundo o movimento compre&confie houve um aumento de 47% nas vendas online.</p>
+<p> É fato que que os animais precisam se alimentar e manter os cuidados com a saúde e higiene e para ajudar, não apenas nesta situação temporária mas também para acompanhar o avanço tecnológico do setor de vendas e serviços, a transformação digital para os pet shops que ainda não tem o seu e-commerce é urgente e inadiável. 
+<p> De acordo com autores, a chave mestre para o sucesso é inovação no desenvolver de serviços ou produtos de algo que muitas vezes o mercado está saturado ou está carente, por isso, faz-se necessário investir em comunicação, marketing, relacionamento e desenvolvimento organizacional. O mundo está cada dia mais digital e é uma ferramenta essencial de comunicação,  uma forma de aproximar o consumidor e as empresas.</p>
+	<p> A importância da conexão à internet e a adequação a esse tipo de inovação é um fato e ficar fora dessa realidade não é mais opção (HUNT, 2010, p.29).
+	Conforme o escritor Nakamura cita em seu livro E-commerce na internet:
+ <blockquote>
+   <p> E-commerce é o comércio eletrônico, ou seja, é a atividade de compra e venda realizada com o auxilio de recursos eletrônicos. tais   como: Um catálogo, onde a empresa se expõe todos os dias recebendo visitas de pessoas interessadas em seus produtos e na sua empresa ou simplesmente de pessoas que estejam apenas navegando. A Internet melhora a comunicação com o público aproveitando suas vantagens, praticidade, versatilidade, rapidez e baixo custo operacional, além de um canal direto de comunicação o que facilita o contato com o cliente. Orienta seus clientes nas etapas de pré e pós-vendas e demonstra os detalhes dos produtos. Melhora a sua imagem institucional, além de facilitar a vida do consumidor, isso demonstra que a empresa está atualizada, estruturada e comprometida com o novo meio de comunicação.    (NAKAMURA, 2003, p. 31)
+</blockquote>
 
+<p> Estar inserido nas redes sociais é estar em sintonia com o mercado e com as novas tecnologias que são essenciais e reconhecidas em todo o mundo como ferramentas de comunicação e marketing. </p>
+  
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+<p> O mercado pet está em crescimento e a demanda por produtos e serviços para animas de forma online no Brasil é ainda maior, após as restrições, por causa da pandemia, segundo o movimento compre&confie, houve um aumento de 47% nas vendas online. 
+Tendo em vista o crescimento deste mercado e a busca por inovação e métodos de alcançar um público cada vez maior, o desenvolvimento de uma plataforma online que consiga reunir uma diversidade de serviços e produtos, auxiliando o lojista de bairro, pessoas físicas que oferecem os seus serviços, profissionais de veterinária e empreendedores, ao seu público alvo gerando resultado e retorno financeiro, pode ser uma forma de aumentos expressivos nos lucros e redução de despesas. 
+Assim surge o seguinte problema: Como criar uma verdadeira comunidade virtual em forma de classificados para favorecer o setor pet, otimizar as vendas e alavancar o setor pet? </p>
 
 ## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+<ul>
+<li>-</li> Tornar o serviço de pet shop acessível ao grande público e ampliar o alcance do comerciante de bairro;
+Oferecer através de uma plataforma online os serviços de pessoa física, como hospedagem e creche para os tutores que precisam se ausentar e não tem como deixar seus animaizinhos;
+<li>-</li>Conectar pessoas que precisam de adquirir produtos e serviços fornecidos por pet shops e clinicas veterinárias a pessoas que estão oferendo estes serviços; 
+<li>-</li>Criar oportunidades e oferecer soluções (criação de web site) para  melhorar a comunicação entre as empresas e o público alvo;
+<li>-</li>Fomentar o mercado de pet shop a criar novas opções de produtos e serviços;
+</ul>
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+<p> Desenvolver o site Conforto Pet – uma plataforma que permite aos usuários que buscam produtos e serviços pets disponíveis no mercado em forma online ou lojas físicas centralizadas em sua região e conecta-los aos comerciantes e profissionais desse setor. </p>
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+<p> O público alvo são tutores de pets que buscam por produtos ou serviços para os seus bichinhos de estimação, com idade a partir de 18 anos. Homens e mulheres pertencentes às classes A, B e C. </p>
