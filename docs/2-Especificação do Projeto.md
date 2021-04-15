@@ -73,6 +73,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Cadastro de Pet   | MÉDIA |
 
 
+
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
@@ -82,7 +83,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| O sistema deve ser restrito ao lançamento de produtos e serviços pet | ALTA | 
 |RNF-004| Não é autorizado o uso de Pop-up's,banner's ou qualquer tipo de propaganda monetizável |  MÉDIA | 
 |RNF-005| O sistema deve ser simples e minimalista | MÉDIA | 
- 
+|RNF-006| O site deve ser compatível com os navegadores mais populares do mercado | ALTA | 
 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
@@ -107,8 +108,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
+|02| Não pode ser desenvolvido um módulo de backend       
+|03| As especificações do projeto deverão ser entregues até o dia 19/04/21
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
