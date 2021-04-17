@@ -71,6 +71,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 |RF-003| Cadastro de Pet   | MÉDIA |
+|RF-004| Gravar as preferências do usuário   | MÉDIA |
+|RF-005| Permitir que o úsuário encontre pet shops mais próximos à sua residência através da sua localização   | MÉDIA |
 
 
 
