@@ -30,7 +30,7 @@ Lucas Jhony tem 20 anos, mora atualmente em Desterro de Entre Rios MG, Estudante
 <b>Motivações</b> | Família | Amigos | Fé
 <b>Aplicativos</b> | Instagram | Facebook | Twitter
 
-<b>Gabriel D'Angelo<b>
+<b>Gabriel D'Angelo</b>
  
 Gabriel D'Angelo tem 24 anos, formado em Economia; Atualmente morando atualmente em Desterro de Entre Rios MG. Formado na Universidade UFSJ! Gabriel  gosta de animais  e tem 2 cachorros. Acha também que um serviço de aplicação web seria  muito útil nos dias de hoje; E usaria sem dúvidas. E acha que deve conter no Aplicativo meios de  tirar dúvidas ou pesquisas mais simples, como alguns tipos de doenças.  E sempre se desloca pessoalmente para comprar ou marcas consultas para seu pet . Disse também  que seu maior foco no aplicativo  seria consultoria ao veterinário online. Um aplicativo para Gabriel deve passar segurança, e que nunca tenha altos custos ao cliente  final. Perderia seu interesse pelo aplicativo caso sentisse inseguro usando.
 
