@@ -30,6 +30,17 @@ Lucas Jhony tem 20 anos, mora atualmente em Desterro de Entre Rios MG, Estudante
 <b>Motivações</b> | Família | Amigos | Fé
 <b>Aplicativos</b> | Instagram | Facebook | Twitter
 
+<b>Gabriel D'Angelo<b>
+ 
+Gabriel D'Angelo tem 24 anos, formado em Economia; Atualmente morando atualmente em Desterro de Entre Rios MG. Formado na Universidade UFSJ! Gabriel  gosta de animais  e tem 2 cachorros. Acha também que um serviço de aplicação web seria  muito útil nos dias de hoje; E usaria sem dúvidas. E acha que deve conter no Aplicativo meios de  tirar dúvidas ou pesquisas mais simples, como alguns tipos de doenças.  E sempre se desloca pessoalmente para comprar ou marcas consultas para seu pet . Disse também  que seu maior foco no aplicativo  seria consultoria ao veterinário online. Um aplicativo para Gabriel deve passar segurança, e que nunca tenha altos custos ao cliente  final. Perderia seu interesse pelo aplicativo caso sentisse inseguro usando.
+
+![alt text](https://user-images.githubusercontent.com/80352124/115093787-d2732300-9ef1-11eb-98e4-5f248349ea5a.png) | Gabriel D'Angelo | 24 Anos | Economista
+:--------- | :------: | -------: | -------: 
+<b>Hobbies</b> | Jogar | Sair | Trabalhar
+<b>Motivações</b> | Família | Amigos | Realização
+<b>Aplicativos</b> | Instagram | Facebook |  ----
+
+
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
@@ -71,8 +82,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 |RF-003| Cadastro de Pet   | MÉDIA |
-|RF-004| Gravar as preferências do usuário   | MÉDIA |
-|RF-005| Permitir que o úsuário encontre pet shops mais próximos à sua residência através da sua localização   | MÉDIA |
 
 
 
@@ -113,11 +122,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend       
 |03| As especificações do projeto deverão ser entregues até o dia 19/04/21
-|04| Não é necessário que o usuário instale nenhum programa para utilização do produto
-
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
