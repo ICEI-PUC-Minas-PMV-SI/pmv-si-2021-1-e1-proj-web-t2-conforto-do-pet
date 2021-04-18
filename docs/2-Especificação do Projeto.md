@@ -63,6 +63,17 @@ Gabriela tem 19 Anos, atualmente morando em Pssa Tempo MG. Gabriela gosta muito 
 <b>Motivações</b> | Família | Amigos | Fé 
 <b>Aplicativos</b> | WhatsApp | Twitter | Instagram
 
+<b>Mateus Andrade </b>
+
+
+Mateus tem 25 anos,  atualmente morando em Desterro de Entre Rios, tem 1 cachorro, e ama animais! Acha que o aplicativo seria ótimo; que ele conseguiria comprar seus itens sem sair de casa pois não tem tempo para sair e cuidar de seu pet. E que o aplicativo salvaria a sua vida e ele conseguiria encaixar tudo em sua rotina.  Que teria que ter cuidados ao seu pet online, e que conseguiria comprar tudo online.  E seu maior foco no aplicativo seria  marcar consultas.  Que o aplicativo tenha fácil  acesso, e seja um app bonito. Que não tenha anúncios e que não trave. Perderia seu interesse pelo App caso houvesse Travamentos e não seja fácil de usar
+
+![alt text](https://user-images.githubusercontent.com/80352124/115131358-f86df580-9fcd-11eb-8968-e9ed92ea2257.png) | Mateus Andrade | 25 anos | Educador Físico
+:--------- | :------: | -------: | -------: 
+<b>Hobbies</b> | Sair | Jogar | Treinar 
+<b>Motivações</b> | Família | Sucesso | Amigos
+<b>Aplicativos</b> | WhatsApp | Facebook | Twitter
+
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
