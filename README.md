@@ -10,7 +10,7 @@ O presente projeto busca desenvolver um Sistema que ligue prestadores de serviç
 
 ## Integrantes
 
-- Douglas Fernan De Carvalho Jardim
+- Douglas Fernandes De Carvalho Jardim
 - Thomas Henrique Lousada
 - Valéria Aparecida Santos
 - Robert Ulisses Junior
