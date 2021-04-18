@@ -18,18 +18,20 @@
 Tendo em vista o crescimento deste mercado e a busca por inovação e métodos de alcançar um público cada vez maior, o desenvolvimento de uma plataforma online que consiga reunir uma diversidade de serviços e produtos, auxiliando o lojista de bairro, pessoas físicas que oferecem os seus serviços, profissionais de veterinária e empreendedores, ao seu público alvo gerando resultado e retorno financeiro, pode ser uma forma de aumentos expressivos nos lucros e redução de despesas. 
 Assim surge o seguinte problema: Como criar uma verdadeira comunidade virtual em forma de classificados para favorecer o setor pet, otimizar as vendas e alavancar o setor pet? </p>
 
-## Objetivos
-<ul>
-<li>-</li> Tornar o serviço de pet shop acessível ao grande público e ampliar o alcance do comerciante de bairro;
-Oferecer através de uma plataforma online os serviços de pessoa física, como hospedagem e creche para os tutores que precisam se ausentar e não tem como deixar seus animaizinhos;
-<li>-</li>Conectar pessoas que precisam de adquirir produtos e serviços fornecidos por pet shops e clinicas veterinárias a pessoas que estão oferendo estes serviços; 
-<li>-</li>Criar oportunidades e oferecer soluções (criação de web site) para  melhorar a comunicação entre as empresas e o público alvo;
-<li>-</li>Fomentar o mercado de pet shop a criar novas opções de produtos e serviços;
-</ul>
+## Objetivo Geral 
+
+<p> O objetivo geral deste projeto é desenvolver um sistema web que ligue donos de petshop e profissionais da área as pessoas que buscam serviços ou produtos para o seu pet, dentro de uma única plataforma, de forma simplificada e com uma variedade de opções. 
+
+## Objetivos específicos 
+
+- Oferecer através de uma plataforma online os serviços de pessoa física, como hospedagem e creche para os tutores que precisam se ausentar e não tem com quem deixar seus animaizinhos;
+- Conectar pessoas que precisam de adquirir produtos e serviços fornecidos por pet shops e clinicas veterinárias a pessoas que estão oferendo estes serviços; 
+- Criar oportunidades e oferecer soluções (criação de web site) para  melhorar a comunicação entre as empresas e o público alvo;
+- Fomentar o mercado de pet shop a criar novas opções de produtos e serviços;
 
 ## Justificativa
 
-<p> Desenvolver o site Conforto Pet – uma plataforma que permite aos usuários que buscam produtos e serviços pets disponíveis no mercado em forma online ou lojas físicas centralizadas em sua região e conecta-los aos comerciantes e profissionais desse setor. </p>
+<p> Desenvolver o site Conforto Pet – uma plataforma que permite aos usuários que buscam produtos e serviços pets disponíveis no mercado em forma online ou lojas físicas centralizadas em sua região e conecta-los aos comerciantes e profissionais deste setor. Tornar o serviço de pet shop acessível ao grande público e ampliar o alcance do pequeno comerciante. </p>
 
 ## Público-Alvo
 
