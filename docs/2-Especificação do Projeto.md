@@ -32,7 +32,8 @@ Lucas Jhony tem 20 anos, mora atualmente em Desterro de Entre Rios MG, Estudante
 
 <b>Gabriel D'Angelo</b>
  
-Gabriel D'Angelo tem 24 anos, formado em Economia; Atualmente morando atualmente em Desterro de Entre Rios MG. Formado na Universidade UFSJ! Gabriel  gosta de animais  e tem 2 cachorros. Acha também que um serviço de aplicação web seria  muito útil nos dias de hoje; E usaria sem dúvidas. E acha que deve conter no Aplicativo meios de  tirar dúvidas ou pesquisas mais simples, como alguns tipos de doenças.  E sempre se desloca pessoalmente para comprar ou marcas consultas para seu pet . Disse também  que seu maior foco no aplicativo  seria consultoria ao veterinário online. Um aplicativo para Gabriel deve passar segurança, e que nunca tenha altos custos ao cliente  final. Perderia seu interesse pelo aplicativo caso sentisse inseguro usando.
+Gabriel D'Angelo tem 24 anos, formado em Economia; Atualmente morando atualmente em Desterro de Entre Rios MG. Formado na Universidade UFSJ! Gabriel  gosta de animais  e tem 2 cachorros. Acha também que um serviço de aplicação web seria  muito útil nos dias de hoje; E usaria sem dúvidas. E acha que deve conter no Aplicativo meios de  tirar dúvidas ou pesquisas mais simples, como alguns tipos de doenças.  E sempre se desloca pessoalmente para comprar ou marcas consultas para seu pet . Disse também  que seu maior foco no aplicativo  seria consultoria ao veterinário online. Um aplicativo para Gabriel deve passar segurança, e que nunca tenha altos custos ao cliente  final. Perderia seu interesse pelo aplicativo caso sentisse inseguro usando. 
+
 
 ![alt text](https://user-images.githubusercontent.com/80352124/115093787-d2732300-9ef1-11eb-98e4-5f248349ea5a.png) | Gabriel D'Angelo | 24 Anos | Economista
 :--------- | :------: | -------: | -------: 
@@ -40,6 +41,27 @@ Gabriel D'Angelo tem 24 anos, formado em Economia; Atualmente morando atualmente
 <b>Motivações</b> | Família | Amigos | Realização
 <b>Aplicativos</b> | Instagram | Facebook |  ----
 
+<b>Ana Carolina </b>
+
+
+Ana Carolina tem 19 Anos  Estudante , Atualmente morando em São Brás Do Suaçuí MG. Ana Carolina  ama animais e tem  2 cachorros  e acha que  o aplicativo teria ótima utilidade, devido a situação que estamos vivendo, em plena pandemia, sem contar na facilidade de pedir itens para seu pet .E acha que seria de extrema necessidade para ela.  Acha que no aplicativo deve ter uma quantidade variada de produtos e com expansão por diversas cidades .  Atualmente para levar seu pet  a consultas se desloca para outra cidade .  E em sua utilização  seu maior foco seria a facilidade para fazer o necessário  de forma rápida e fácil.  E que em um aplicativo o que chama a sua atenção seria sua identidade bonita. E que em um aplicativo nunca deva existir virús e falhas e que perderia seu interesse pelo aplicativo caso houvesse  muitos anúncios . Mais detalhes no texto abaixo.
+
+![alt text](https://user-images.githubusercontent.com/80352124/115129931-05d0b300-9fc1-11eb-89db-02402315ea06.png) | Ana Carolina | 19 Anos | Estudante
+:--------- | :------: | -------: | -------: 
+<b>Hobbies</b> | Sair |  Ler | Cuidar dos animais
+<b>Motivações</b> | Família |  Deus | Amigos
+<b>Aplicativos</b> | Instagram | WhatsApp | twitter
+
+<b>Gabriela Mariz </b>
+
+
+Gabriela tem 19 Anos, atualmente morando em Pssa Tempo MG. Gabriela gosta muito de animais, e tem 3 gatos. E acha que o aplicativo seria muito bom, que seria muito fácil ter acesso ao itens desejados, Principalmente em plena pandemia e teria uma útilidade enorme para ela.  Que deveria ter no aplicativo grandes quantidades de produtos, que atenda em diversas cidades e que tenha fácil acesso para todos os tipos de público. E que em sua utilização seu maior foco seria atendimento online nas horas de urgência. Que tenha uma interface fácil e bonita. Que não tenha muitos anúncios que atrapalhe o uso do aplicativo , perderia seu interesse caso fosse um aplicativo pesado, que seu celular não o suportassse
+
+![alt text](https://user-images.githubusercontent.com/80352124/115130282-ea67a700-9fc4-11eb-8b9c-2b30ce85e1a6.png) | Gabriela Mariz | 19 anos | Estudante
+:--------- | :------: | -------: | -------: 
+<b>Hobbies</b> | Estudar | Sair | Caminhar 
+<b>Motivações</b> | Família | Amigos | Fé 
+<b>Aplicativos</b> | WhatsApp | Twitter | Instagram
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
