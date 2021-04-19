@@ -118,13 +118,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-003| O sistema deve ser restrito ao lançamento de produtos e serviços pet | ALTA | 
-|RNF-004| Não é autorizado o uso de Pop-up's,banner's ou qualquer tipo de propaganda monetizável |  MÉDIA | 
-|RNF-005| O sistema deve ser simples e minimalista | MÉDIA | 
-|RNF-006| O site deve ser compatível com os navegadores mais populares do mercado | ALTA | 
-|RNF-007| O site deve ter um sistema de classificação de satisfação por nota baseado na quantidade de estrelas(0 a 5 estrelas) | ALTA | 
+|RNF-001| O sistema deve ser restrito ao lançamento de produtos e serviços pet | ALTA |  
+|RNF-002| O sistema deve ser simples e minimalista | MÉDIA | 
+|RNF-003| O site deve ser compatível com os navegadores mais populares do mercado | ALTA | 
+|RNF-004| O site deve ter um sistema de classificação de satisfação por nota baseado na quantidade de estrelas(0 a 5 estrelas) | ALTA | 
 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
