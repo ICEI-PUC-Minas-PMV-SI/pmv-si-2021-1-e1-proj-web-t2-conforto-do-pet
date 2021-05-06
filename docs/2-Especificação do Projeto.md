@@ -111,7 +111,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 |RF-003| Cadastro de Pet   | MÉDIA |
-
+|RF-004| Cadastrar e gerenciar profissionais e prestadores de serviço| ALTA |  
+|RF-005| Mercado digital para vendas de itens | ALTA | 
+|RF-006| Emitir relatório mensal com extrato de serviços prestados| ALTA | 
+|RF-007| Cadastrar e gerenciar Consultas/Atendimentos | MÉDIA | 
+|RF-008| Sistema de avaliações de prestadores de serviço| MÉDIA | 
+|RF-009| Sistema de avaliações de clientes | MÉDIA | 
+|RF-009| Avaliar petshop’s, produtos, serviços e profissionais | BAIXA | 
+|RF-010| Registrar e Logar no Sistema Web com usuário e senha | ALTA |
 
 
 ### Requisitos não Funcionais
