@@ -19,9 +19,13 @@ foi utilizado para hospedagem do repositório.
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
+
 ●Scrum Master: Thomas Henrique
+
 ●Product Owner: Douglas Fernandes
+
 ●Equipe de Desenvolvimento: Robert Ulisses, Douglas Fernandes, Thomas Henrique, Valéria Aparecida
+
 ●Equipe de Design: Robert Ulisses, Douglas Fernandes, Thomas Henrique, Valéria Aparecida
 
 
