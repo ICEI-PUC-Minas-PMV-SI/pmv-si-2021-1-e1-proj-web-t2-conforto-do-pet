@@ -24,10 +24,6 @@ A equipe está organizada da seguinte maneira:
 ●Equipe de Desenvolvimento: Robert Ulisses, Douglas Fernandes, Thomas Henrique, Valéria Aparecida
 ●Equipe de Design: Robert Ulisses, Douglas Fernandes, Thomas Henrique, Valéria Aparecida
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
