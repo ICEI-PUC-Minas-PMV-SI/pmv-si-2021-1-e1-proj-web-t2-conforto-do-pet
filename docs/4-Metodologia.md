@@ -16,7 +16,13 @@ foi utilizado para hospedagem do repositório.
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
+
+A equipe está organizada da seguinte maneira:
+●Scrum Master: Thomas Henrique
+●Product Owner: Douglas Fernandes
+●Equipe de Desenvolvimento: Robert Ulisses, Douglas Fernandes, Thomas Henrique, Valéria Aparecida
+●Equipe de Design: Robert Ulisses, Douglas Fernandes, Thomas Henrique, Valéria Aparecida
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
