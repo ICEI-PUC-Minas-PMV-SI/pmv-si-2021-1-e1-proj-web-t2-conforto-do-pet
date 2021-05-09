@@ -29,7 +29,8 @@ WIREFRAME SAC:
 
 WIREFRAME CHAT:
 
-![CONFORTO DO PET CHAT](https://user-images.githubusercontent.com/81272141/117580445-4c03c880-b0ce-11eb-8947-71c5749d3081.jpeg)
+![CHAT2](https://user-images.githubusercontent.com/81272141/117580603-17444100-b0cf-11eb-9f5e-0da9f3ac10a2.png)
+
 
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
