@@ -23,7 +23,8 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 WIREFRAME SAC:
 
-![CONFORTO DO PET SAC](https://user-images.githubusercontent.com/81272141/117580393-1d85ed80-b0ce-11eb-95de-b88f81848352.jpg)
+![image](https://user-images.githubusercontent.com/81272141/117580535-ba488b00-b0ce-11eb-99b7-5a1abacee18b.png)
+
 
 
 WIREFRAME CHAT:
