@@ -29,7 +29,8 @@ WIREFRAME SAC:
 
 WIREFRAME CHAT:
 
-![CHAT2](https://user-images.githubusercontent.com/81272141/117580603-17444100-b0cf-11eb-9f5e-0da9f3ac10a2.png)
+![CONFORTO DO PET CHAT](https://user-images.githubusercontent.com/81272141/117580615-24f9c680-b0cf-11eb-9957-7dab37d0c387.jpeg)
+
 
 
 
