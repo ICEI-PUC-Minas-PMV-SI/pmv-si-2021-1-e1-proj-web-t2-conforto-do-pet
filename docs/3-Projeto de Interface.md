@@ -31,10 +31,17 @@ WIREFRAME CHAT:
 
 ![CONFORTO DO PET CHAT](https://user-images.githubusercontent.com/81272141/117580615-24f9c680-b0cf-11eb-9957-7dab37d0c387.jpeg)
 
-
+WIREFRAME HOSPEDAGEM:
 ![Hospedagem](https://user-images.githubusercontent.com/81273050/117594886-83e22e80-b115-11eb-9074-c41a92875b4e.png)
 
-WIREFRAM EM PDF:
+WIREFRAME BANHO E TOSA:
+![Banho e tosa](https://user-images.githubusercontent.com/81273050/117594990-e20f1180-b115-11eb-859a-8c73f54cbe13.png)
+
+WIREFRAME PASSEIO:
+![Passeio](https://user-images.githubusercontent.com/81273050/117594999-e6d3c580-b115-11eb-9047-866b1c008d93.png)
+
+
+WIREFRAM EM PDF :
 [Passeio.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t2-conforto-do-pet/files/6448774/Passeio.pdf)
 
 
