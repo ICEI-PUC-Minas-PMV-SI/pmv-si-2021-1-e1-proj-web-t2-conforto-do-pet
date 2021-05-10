@@ -56,7 +56,7 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas usadas no projeto foram de livre escolha como instruiu o professor Kléber são elas:
 
-- Potoshop.
+- Photoshop.
 - Figma
 - Paint
 - Github
