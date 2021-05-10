@@ -41,20 +41,16 @@ Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  e
 
 ●Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
 
+### Processos
 
-### Processo
+Para a gestão e distribuição de atividades e melhor acompanhamento do desenvolvimento do grupo, foi implementado o método ágil SCRUM, com reuniões semanais de aproximadamente uma hora e meia para discussão de ideias, distribuição de atividades e relatório sobre a progressão das atividades e quadro Kanban acompanhamento das atividades.
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+> - [Quadro de planejamento](https://github.com/features/project-management/)
+
 
 ### Ferramentas
 
-As ferramentas usadas no projeto foram de livre escolha como instruiu o professor Kléber são elas:
+As ferramentas usadas no projeto foram de livre escolha como instruiu o professor Kléber, são elas:
 
 - Photoshop.
 - Figma
