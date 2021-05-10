@@ -19,37 +19,33 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
 
-## Wireframes
+## Wireframes 
 
-WIREFRAMES 
-
-- Main page
+WIREFRAMES Main page
 
 ![Main Page](https://user-images.githubusercontent.com/78939209/117646429-1f00f580-b162-11eb-98ca-a41b2b4d80fa.png)
 
-- Conferência e pagamentos
+WIREFRAMES Conferência e pagamentos
 
 ![Conferência e pagamentos](https://user-images.githubusercontent.com/78939209/117646636-5d96b000-b162-11eb-8fe8-2b451dfc318d.png)
 
-WIREFRAME CADASTRO E PRESTAÇÃO DE SERVIÇOS
-
-- Login e criar conta
+WIREFRAMES Login e criar conta
 
 ![Login e criar conta](https://user-images.githubusercontent.com/78939209/117646817-9767b680-b162-11eb-98c2-4385f6afe21b.png)
 
-- Cadastro e prestação de serviços
+WIREFRAMES Cadastro e prestação de serviços
 
 ![Cadastro e prestação 1](https://user-images.githubusercontent.com/78939209/117646766-8a4ac780-b162-11eb-9244-76701901acae.png)
 
-- Criar conta
+WIREFRAMES Criar conta
 
 ![Criar conta](https://user-images.githubusercontent.com/78939209/117646891-aea6a400-b162-11eb-8bde-4b71575e4175.png)
 
-- Cadastro do PET
+WIREFRAMES Cadastro do PET
 
 ![Cadastro PET](https://user-images.githubusercontent.com/78939209/117646770-8b7bf480-b162-11eb-88db-83849f500306.png)
 
-- Cadastro de serviço
+WIREFRAMES Cadastro de serviço
 
 ![Cadastro de serviço](https://user-images.githubusercontent.com/78939209/117646861-a6e6ff80-b162-11eb-9e8c-bac83e726741.png)
 
