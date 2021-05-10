@@ -31,6 +31,9 @@ WIREFRAME CHAT:
 
 ![CONFORTO DO PET CHAT](https://user-images.githubusercontent.com/81272141/117580615-24f9c680-b0cf-11eb-9957-7dab37d0c387.jpeg)
 
+[Passeio.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t2-conforto-do-pet/files/6448774/Passeio.pdf)
+
+
 
 
 
