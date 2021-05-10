@@ -1,7 +1,7 @@
 
 # Projeto de Interface
 
-Um dos principais requisitos deste software é fácilidade para o usuário, promovendo um site simples e objetivo e que seja intuitivo ao usuário para que haja o mínimo de estresse tanto para o ofertante quanto para o comprador dos serviços e produtos disponibilizados. Desta forma, com o intuito do software em ser minimalista foi projeto uma interface simples com conforto visual no qual o usuário ao olhar para a interface saberá 
+Um dos principais requisitos deste software é oferecer serviços com fácil interação para o usuário, promovendo um site simples e objetivo e que seja intuitivo ao usuário para que haja o mínimo de estresse tanto para o ofertante quanto para o comprador dos serviços e produtos disponibilizados. Desta forma, com o intuito do software em ser minimalista foi projetado uma interface simples com conforto visual no qual o usuário ao olhar para a interface saberá, com base em suas necessidades, escolher seus serviços e/ou produtos de maneira prática, ágil e fácil.
 
 ## User Flow
 
