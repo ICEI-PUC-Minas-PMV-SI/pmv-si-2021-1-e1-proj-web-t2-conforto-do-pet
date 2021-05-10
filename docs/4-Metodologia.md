@@ -54,20 +54,16 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+As ferramentas usadas no projeto foram de livre escolha como instruiu o professor Kléber são elas:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+- Potoshop.
+- Figma
+- Paint
+- Github
+- Microsoft Teams
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+O editor gráfico Figma foi escolhido pois possui grandes recursos online disponíveis de forma gratuita e templates que nos norteiam no desenvolvimento dos wireframes, já o Photoshop possui grandes recursos de manipulação de imagem, o Paint foi usado para fazer o esboço inicial, usado como uma ferramenta de rascunho para termos idéias de tamanhos de menus e botões, o Github nos permite um controle de versão e dessa forma todos os integrantes podem colaborar no desenvolvimento e gerenciamento do projeto . E para as reuniões usamos a plataforma Microsoft Teams tanto para as orientações do professor como para as divisões de tarefas entre os integrantes.
+
+
+
