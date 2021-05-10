@@ -21,11 +21,29 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Wireframes
 
+WIREFRAMA MAIN PAGE
+
+![Main Page](https://user-images.githubusercontent.com/78939209/117646429-1f00f580-b162-11eb-98ca-a41b2b4d80fa.png)
+
+WIREFRAME CONFERENCIA E PAGAMENTOS
+
+ConfeCn![Conferência e pagamentos](https://user-images.githubusercontent.com/78939209/117646636-5d96b000-b162-11eb-8fe8-2b451dfc318d.png)
+
+WIREFRAME CADASTRO E PRESTAÇÃO DE SERVIÇOS
+
+![Login e criar conta](https://user-images.githubusercontent.com/78939209/117646817-9767b680-b162-11eb-98c2-4385f6afe21b.png)
+
+![Cadastro e prestação 1](https://user-images.githubusercontent.com/78939209/117646766-8a4ac780-b162-11eb-9244-76701901acae.png)
+
+![Criar conta](https://user-images.githubusercontent.com/78939209/117646891-aea6a400-b162-11eb-8bde-4b71575e4175.png)
+
+![Cadastro PET](https://user-images.githubusercontent.com/78939209/117646770-8b7bf480-b162-11eb-88db-83849f500306.png)
+
+![Cadastro de serviço](https://user-images.githubusercontent.com/78939209/117646861-a6e6ff80-b162-11eb-9e8c-bac83e726741.png)
+
 WIREFRAME SAC:
 
 ![image](https://user-images.githubusercontent.com/81272141/117580535-ba488b00-b0ce-11eb-99b7-5a1abacee18b.png)
-
-
 
 WIREFRAME CHAT:
 
@@ -43,10 +61,6 @@ WIREFRAME PASSEIO:
 
 WIREFRAM EM PDF :
 [Passeio.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t2-conforto-do-pet/files/6448774/Passeio.pdf)
-
-
-
-
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
