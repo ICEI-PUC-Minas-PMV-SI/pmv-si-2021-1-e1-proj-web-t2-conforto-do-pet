@@ -21,13 +21,15 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Wireframes
 
-WIREFRAMA MAIN PAGE
+WIREFRAMES 
+
+- Main page
 
 ![Main Page](https://user-images.githubusercontent.com/78939209/117646429-1f00f580-b162-11eb-98ca-a41b2b4d80fa.png)
 
-WIREFRAME CONFERENCIA E PAGAMENTOS
+- Conferência e pagamentos
 
-ConfeCn![Conferência e pagamentos](https://user-images.githubusercontent.com/78939209/117646636-5d96b000-b162-11eb-8fe8-2b451dfc318d.png)
+![Conferência e pagamentos](https://user-images.githubusercontent.com/78939209/117646636-5d96b000-b162-11eb-8fe8-2b451dfc318d.png)
 
 WIREFRAME CADASTRO E PRESTAÇÃO DE SERVIÇOS
 
