@@ -31,14 +31,19 @@ ConfeCn![Conferência e pagamentos](https://user-images.githubusercontent.com/7
 
 WIREFRAME CADASTRO E PRESTAÇÃO DE SERVIÇOS
 
+- Login e criar conta
 ![Login e criar conta](https://user-images.githubusercontent.com/78939209/117646817-9767b680-b162-11eb-98c2-4385f6afe21b.png)
 
+- Cadastro e prestação de serviços
 ![Cadastro e prestação 1](https://user-images.githubusercontent.com/78939209/117646766-8a4ac780-b162-11eb-9244-76701901acae.png)
 
+- Criar conta
 ![Criar conta](https://user-images.githubusercontent.com/78939209/117646891-aea6a400-b162-11eb-8bde-4b71575e4175.png)
 
+- Cadastro do PET
 ![Cadastro PET](https://user-images.githubusercontent.com/78939209/117646770-8b7bf480-b162-11eb-88db-83849f500306.png)
 
+- Cadastro de serviço
 ![Cadastro de serviço](https://user-images.githubusercontent.com/78939209/117646861-a6e6ff80-b162-11eb-9e8c-bac83e726741.png)
 
 WIREFRAME SAC:
