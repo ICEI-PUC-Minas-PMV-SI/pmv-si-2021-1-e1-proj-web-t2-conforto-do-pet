@@ -57,8 +57,7 @@ WIREFRAME PASSEIO:
 ![Passeio](https://user-images.githubusercontent.com/81273050/117594999-e6d3c580-b115-11eb-9047-866b1c008d93.png)
 
 
-WIREFRAM EM PDF :
-[Passeio.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t2-conforto-do-pet/files/6448774/Passeio.pdf)
+
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
