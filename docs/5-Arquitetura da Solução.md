@@ -2,7 +2,24 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+
+A arquitetura da solução para o site Conforto do Pet apresenta o servidor Hostinger para que atenda à um dos requisitos do projeto de poder ser acessado pelos navegadores mais populares, as linguagens usadas para a programação do site são HTML, CSS e JavaScript. 
+O usuário acessará o site por meio do endereço www.confortodopet.com.br, sendo que o usuário pode ser um prestador de serviço que queira cadastrar seu petshop ou um consumidor final em busca de serviços de cuidados para seu pet
+Ao acessar o site o usúario terá acesso às seguintes páginas:
+
+Main page: Página principal do site que contem um menu com as páginas secundárias contendo também campo de login caso o usuário seja cadastrado e um campo de cadastro para quem acessa pela primeira vez
+
+Produtos:
+
+Banho e Tosa:
+
+Hotel: O proprietário do PetShop encontrará nessa páginao campo para cadastrar seu serviço de hospedagem para seu animal, e o dono do pet poderá localizar um PetShop queofereça esse seviço
+
+Passeio: Nessa página um passeador pode se cadastrar oferecendo serviços de passeador ou o usuuário poderá agendar um passeio para seu animal tendo a opção de marcar semanalmente 
+
+Consulta: O dono do pet poderá marcar consulta online ou presencial nessa página
+
+
 
 ## Diagrama de componentes
 
