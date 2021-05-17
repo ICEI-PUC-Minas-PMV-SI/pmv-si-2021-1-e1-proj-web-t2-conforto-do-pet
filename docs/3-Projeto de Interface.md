@@ -12,7 +12,8 @@ Um dos principais requisitos deste software é oferecer serviços com fácil int
 
 WIREFRAMES Main page
 
-![Main Page](https://user-images.githubusercontent.com/78939209/117646429-1f00f580-b162-11eb-98ca-a41b2b4d80fa.png)
+![Main Page]![main](https://user-images.githubusercontent.com/81272141/118565626-f623c600-b748-11eb-8a19-346f144e47b7.jpeg)
+
 
 WIREFRAMES Conferência e pagamentos
 
