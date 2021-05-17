@@ -36,7 +36,7 @@ A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **SAC/CHATA** - seções de serviços de atendimento ao cliente e chatbox 
+     - **SAC/CHAT** - seções de serviços de atendimento ao cliente e chatbox 
      - **produtos** - registro de produtos listados nos anúncios
      - **Preferidas** - registro de serviços listados nos anúncios
  - **News API** - plataforma que permite o acesso às notícias exibidas no site.
