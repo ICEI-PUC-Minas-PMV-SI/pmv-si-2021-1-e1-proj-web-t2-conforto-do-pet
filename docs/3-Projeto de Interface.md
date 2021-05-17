@@ -52,14 +52,20 @@ WIREFRAME CHAT:
 
 
 WIREFRAME HOSPEDAGEM:
+
+
 ![HOSPEDAGEM](https://user-images.githubusercontent.com/81272141/118566432-3a639600-b74a-11eb-80c6-06b01d73e51d.jpeg)
 
 
 WIREFRAME BANHO E TOSA:
+
+
 ![BANHO E TOSA](https://user-images.githubusercontent.com/81272141/118566460-4c453900-b74a-11eb-9fcf-7d7a91bbc3fa.jpeg)
 
 
 WIREFRAME PASSEIO:
+
+
 ![PASSEIO](https://user-images.githubusercontent.com/81272141/118566510-67b04400-b74a-11eb-957c-6a12161fc73e.jpeg)
 
 
