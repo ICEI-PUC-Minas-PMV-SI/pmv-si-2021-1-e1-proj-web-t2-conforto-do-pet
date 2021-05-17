@@ -9,11 +9,11 @@ Ao acessar o site o usúario terá acesso às seguintes páginas:
 
 Main page: Página principal do site que contem um menu com as páginas secundárias contendo também campo de login caso o usuário seja cadastrado e um campo de cadastro para quem acessa pela primeira vez
 
-Produtos:
+Produtos: Nessa página o usuário acessa os produtos ofertados pelos PetShops cadastrados
 
-Banho e Tosa:
+Banho e Tosa: O dono do pet poderá encontrar serviços de cuidados com o pet de banho e ou tosa
 
-Hotel: O proprietário do PetShop encontrará nessa páginao campo para cadastrar seu serviço de hospedagem para seu animal, e o dono do pet poderá localizar um PetShop queofereça esse seviço
+Hotel: O proprietário do PetShop encontrará nessa página o campo para cadastrar seu serviço de hospedagem para seu animal, e o dono do pet poderá localizar um PetShop queofereça esse seviço
 
 Passeio: Nessa página um passeador pode se cadastrar oferecendo serviços de passeador ou o usuuário poderá agendar um passeio para seu animal tendo a opção de marcar semanalmente 
 
