@@ -12,16 +12,12 @@ Um dos principais requisitos deste software é oferecer serviços com fácil int
 
 WIREFRAMES Main page
 
-![Main Page]![main](https://user-images.githubusercontent.com/81272141/118565626-f623c600-b748-11eb-8a19-346f144e47b7.jpeg)
+[main](https://user-images.githubusercontent.com/81272141/118565626-f623c600-b748-11eb-8a19-346f144e47b7.jpeg)
 
-
-WIREFRAMES Conferência e pagamentos
-
-![Conferência e pagamentos](https://user-images.githubusercontent.com/78939209/117646636-5d96b000-b162-11eb-8fe8-2b451dfc318d.png)
 
 WIREFRAMES Login e criar conta
 
-![Login e criar conta](https://user-images.githubusercontent.com/78939209/117646817-9767b680-b162-11eb-98c2-4385f6afe21b.png)
+![criar conta](https://user-images.githubusercontent.com/81272141/118565822-3edb7f00-b749-11eb-90bb-0b3d9a7dedfa.jpeg)
 
 WIREFRAMES Cadastro e prestação de serviços
 
