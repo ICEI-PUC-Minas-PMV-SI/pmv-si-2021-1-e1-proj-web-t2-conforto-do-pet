@@ -45,14 +45,15 @@ A solução implementada conta com os seguintes módulos:
 
 ## Tecnologias Utilizadas
 
-Github
-Bootstrap
-Figma
-Adobe Photoshop
-Adobe Ilustrator
-HTML
-CSS
-Python
+**Github**
+**Bootstrap**
+**Figma**
+**Adobe Photoshop**
+**Adobe Ilustrator**
+**HTML**
+**CSS**
+**Python**
+**Visio** 
 
 ## Hospedagem
 
