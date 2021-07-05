@@ -10,7 +10,7 @@ Conforto Do Pet
 
 ## Identidade Visual (Marca, Design)
 
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t2-conforto-do-pet/issues/57#issuecomment-841844390
+![Confortotransparente](https://user-images.githubusercontent.com/81272141/118405503-93e69a80-b64e-11eb-9bff-e0e2dd41bae7.png)
 
 
 https://user-images.githubusercontent.com/81272141/124516207-87153600-ddb7-11eb-9231-bec9c02bc478.mp4
